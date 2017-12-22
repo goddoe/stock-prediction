@@ -1,4 +1,4 @@
-#Stock Prediction Project
+# Stock Prediction Project
 
 -Company    : Nomad Connection
 
